@@ -1,7 +1,6 @@
 Marsel_Farpost
 Kohan_Dyzik
 Nikita_Trezzoo 
-Scott_Dixon
 Vincente_Hennessy
 Noah_Yashido
 Woody_Winners
@@ -18,7 +17,6 @@ Ram_Phydrex
 Kurt_Underwood
 Luis_Guardiola
 Desmond_Morales
-Kenjiro_Matsukawa
 Anfony_Winadzukava
 Executioner_Scerty
 Ronny_Pember
