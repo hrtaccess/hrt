@@ -1,8 +1,6 @@
 Marsel_Farpost
 Kohan_Dyzik
-Nikita_Trezzoo 
 Vincente_Hennessy
-Noah_Yashido
 Woody_Winners
 Rassell_Roy
 George_Gerhardt
@@ -11,7 +9,7 @@ Jake_Gurinifero
 Aslan_Chaniev
 Rodrigo_Mazzrello
 Rafael_Modelkin
-Ruslan_Pitts
+Ruslan_Plitts
 Marcus_Belfort
 Ram_Phydrex
 Kurt_Underwood
