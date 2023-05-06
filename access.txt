@@ -7,7 +7,6 @@ Christopher_Kalmykov
 Jake_Gurinifero
 Aslan_Chaniev
 Rodrigo_Mazzrello
-Rafael_Modelkin
 Ruslan_Plitts
 Marcus_Belfort
 Ram_Phydrex
@@ -23,3 +22,5 @@ Justin_Rinner
 Dimon_Stepanenko
 Lord_Maxsus
 Shiro_Matsuda
+Hayato Kisaragi
+Scott_Hemsworth
