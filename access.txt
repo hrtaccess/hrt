@@ -13,7 +13,6 @@ Ram_Phydrex
 Kurt_Underwood
 Luis_Guardiola
 Desmond_Morales
-Executioner_Scerty
 Kennedy_Fujihara
 Justin_Rinner
 Dimon_Stepanenko
@@ -24,3 +23,5 @@ Scott_Hemsworth
 Phoenix_Wright
 Lystra_Schneider
 Vins_Westoyn
+Alan_Costa
+Dima_Zolotyxin
