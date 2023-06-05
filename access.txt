@@ -19,6 +19,5 @@ Anfony_Winadzukava
 Bench_Snoyben
 Andrey_Ogurtsov
 Lonely_Lier
-Morgan_Desu
 Nick_Almidge
 Gocis_Morenno
