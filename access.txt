@@ -1,7 +1,6 @@
 Lord_Maxsus
 Ruslan_Satriano
-Goose_Gray
-Andrey_Ogurtsov
+Christopher_Seizures
 Vyacheslav_Lisov
 Rafael_Modelkin
 Neymar_Thein
@@ -10,3 +9,6 @@ Francesco_Caruso
 Dima_Zolotyxin
 Heinrich_Rheinhessen
 Mordoure_Holocaust
+Calvin_Gastelum
+Joster_Gonzalez
+Adrian_Herbenger
