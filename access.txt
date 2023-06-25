@@ -1,9 +1,7 @@
-Lord_Maxsus
 Christopher_Seizures
 Vyacheslav_Lisov
 Rafael_Modelkin
 Neymar_Thein
-Francesco_Caruso
 Dima_Zolotyxin
 Calvin_Gastelum
 Joster_Gonzalez
@@ -13,3 +11,4 @@ Mordoure_Monocaust
 Swen_Mercedes
 Gocis_Morenno
 Aiden_Trezzoo
+Mark_Pember
