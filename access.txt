@@ -10,3 +10,5 @@ Maxim_Rock
 Erl_Facker
 Neptun_Universe
 Mark_Pember
+Thomas_Foberg
+Late_Rency
