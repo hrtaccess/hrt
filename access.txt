@@ -4,7 +4,6 @@ Neymar_Thein
 Dima_Zolotyxin
 Carlo_Beluchi
 Swen_Mercedes
-Gocis_Morenno
 Maxim_Rock
 Erl_Facker
 Neptun_Universe
@@ -12,3 +11,5 @@ Mark_Pember
 Late_Rency
 Rick_Rockford
 Akeno_Akihiko
+Sharagon_Savage
+Cur_Rency
